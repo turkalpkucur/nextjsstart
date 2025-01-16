@@ -5,8 +5,11 @@ export default function Home() {
 
   return (
     < main>
-      GİGİ
-      <p><Link href="/about">ABOUT US...</Link></p>
+
+      <p><Link href="/meals">MEALS..</Link></p>
+      <p><Link href="/meals/share">SHARE..</Link></p>
+      <p><Link href="/community">COMMUNİTY..</Link></p>
+
     </main>
   );
 }
