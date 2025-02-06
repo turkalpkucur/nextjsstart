@@ -2,6 +2,6 @@
 export default function Error({ error }) {
     return <main className="error">
         <h1>BİR HATA OLUŞTU....</h1>
-        <p>Lütfen başka bir zaman tekrar deneyin</p>
+        <p> Failed to create meal....</p>
     </main>
 }
